@@ -44,7 +44,7 @@ body{
     margin: auto auto;
 }
 
-.output-txt{
+#output-txt{
     border: 10px solid black;
     height: 10em;
     margin: auto auto;

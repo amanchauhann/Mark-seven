@@ -45,6 +45,7 @@ body{
 }
 
 #output-txt{
+    color: #6D28D9;
     border: 10px solid black;
     height: 10em;
     margin: auto auto;

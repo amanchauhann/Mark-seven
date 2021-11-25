@@ -79,3 +79,7 @@ p{
     display: inline;
     padding: 0rem 0.25rem;
 }
+
+.link {
+    cursor: pointer;
+}
